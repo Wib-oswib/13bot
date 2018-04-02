@@ -46,7 +46,7 @@ kicker10MID = kicker10.profile.mid
 kicker11MID = kicker10.profile.mid
 kicker12MID = kicker10.profile.mid
 KAC = [kicker01,kicker02,kicker03,kicker04,kicker05,kicker06,kicker07,kicker08,kicker09,kicker10,kicker11,kicker12]
-admin = ['u28d781fa3ba9783fd5144390352b0c24',clMID,kicker10MID,kicker01MID,kicker02MID,kicker03MID,kicker04MID,kicker05MID,kicker06,kicker07MID,kicker08MID,kicker09MID,kicker10MID,kicker11,kicker12]
+admin = ['u28d781fa3ba9783fd5144390352b0c24',clMID,kicker10MID,kicker01MID,kicker02MID,kicker03MID,kicker04MID,kicker05MID,kicker06,kicker07MID,kicker08MID,kicker09MID,kicker10MID,kicker11MID,kicker12MID]
 wait2 = {
     'readPoint':{},
     'readMember':{},
